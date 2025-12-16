@@ -1,2 +1,2 @@
-# Monkeys.co.il-Order
-Monkeys.co.il (1st Assignment - Pizza Order)
+# Monkeys.co.il
+Monkeys (1st Assignment - Pizza Order)
